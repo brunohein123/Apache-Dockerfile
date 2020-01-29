@@ -6,5 +6,5 @@
 ```
 
 ```
-docker push brunohein/webserver
+docker pull brunohein/webserver
 ```
