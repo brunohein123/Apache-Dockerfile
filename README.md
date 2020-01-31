@@ -6,5 +6,5 @@
 ```
 
 ```
-docker pull brunohein/webserver
+docker pull brunohein/webserver:1.0
 ```
